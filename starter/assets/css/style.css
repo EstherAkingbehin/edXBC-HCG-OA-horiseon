@@ -1,30 +1,30 @@
-* {
+* { /*for all element on the page this css style is applied */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
+body { /*background color for webpage*/
     background-color: #d9dcd6;
 }
 
-header {
+header { /*header logo*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header1 h1 {
+.header1 h1 {  /*Header should display inline block*/
     display: inline-block;
     font-size: 48px;
 }
 
-.header1 h1 .seo {
+.header1 h1 .seo { /*'seo font'*/
     color: #d9dcd6;
 }
 
-.header1 nav {
+.header1 nav {  /*navigation*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,25 +32,25 @@ header {
     font-size: 20px;
 }
 
-.header1 nav ul {
+.header1 nav ul { /*No bullet point symbol for unordered list*/
     list-style-type: none;
 }
 
-.header1 nav ul li {
+.header1 nav ul li { /*List should display in line block*/
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
+a { /*Navigation links color and text decoration*/
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
+p { /* font size for text in main class*/
     font-size: 16px;
 }
 
-.hero {
+.hero { /*properties for hero image*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,7 +58,7 @@ p {
     background-position: center;
 }
 
-main {
+main { 
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -74,7 +74,7 @@ main {
     margin-left: 25px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing  { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
