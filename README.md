@@ -6,7 +6,6 @@ Challenge 1
 
 * [Description](#Description)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Features](#features)
 * [Credits](#credits)
 * [License](#license)
@@ -26,13 +25,6 @@ This project can be installed using the SSH or HTTP key in GitHub (Given one of 
 4. Open terminal, create a directory for this project. open the directory. 
 5. Then run git clone ssh key or git clone HTTP key
 6. All folders and files are now cloned into this directory
-
-## Usage 
-
-how to use the website
-```md
-![alt text](assets/images/screenshot.png)
-```
 
 ## Features
 The Horiseon webpage includes a Logo, navigation bar, a hero image, cards with text and images at the bottom of the page and footer.
