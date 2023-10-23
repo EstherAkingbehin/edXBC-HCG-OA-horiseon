@@ -31,7 +31,10 @@ The Horiseon webpage includes a Logo, navigation bar, a hero image, cards with t
 When a user clicks any of the link in the nav bar, it should scroll the page to the position of that specific content. 
 
 The following image shows the web application's appearance and functionality:
-Assets/01-html-css-git-challenge-demo.png
+```md
+![Screenshot of webpage](starter/assets/images/01-html-css-git-challenge-demo.png)
+
+```
 
 ## Credits
 
